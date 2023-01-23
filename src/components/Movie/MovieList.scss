@@ -1,0 +1,17 @@
+.newmovie{
+    font-weight: bold;
+    font-size: 30px;
+   margin-left: 5rem;
+   margin-top: 4rem;
+ display: flex;
+ align-items: center;
+
+}
+.movie-list{
+    display: flex;
+     gap: 8px;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     
+     
+ }

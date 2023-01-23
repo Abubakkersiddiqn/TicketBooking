@@ -1,0 +1,33 @@
+.movie-poster{
+    height: 500px;
+    width:300px;   
+    object-fit: cover;
+    display: block;
+    display: flex;
+    
+   
+               
+}
+.movie-specs{
+                      display:flex;
+                      justify-content: space-between;
+}
+.movie-container
+ul > li
+{
+ list-style-type: none;
+}
+.movie-container{
+                      width:400px;
+                      margin-top: 5rem;
+                      
+                     display: flex;
+                     justify-content: center;
+                     align-items: center;
+                      height: min-content;
+}
+.movie-button{
+                      display: flex;
+                      justify-content: space-between;
+                      margin-left:auto;
+}
